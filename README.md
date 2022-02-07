@@ -26,17 +26,25 @@ So, it can come up with a mindful business plan to be able to accelerate its rev
 
 - Project uses the dataset day.csv and the data dictionary available in Readme.txt
 
+## Approach
+Steps followed in the data analysis
+-Data Visualization
+-Data Preparation
+-Modelling
+-Evaluation of the model
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Conclusion 1 
+  Factors affect the Bike Booking are Season , Weather situation on a given day , Working/Non workingday and Year on Year Increase int he booking
+- Conclusion 2 
+  Variables Temp and ATemp have a colinear relationship
+- Conclusion 3 
+  Indenpendent factors like Month, Humidity, workinday/Non working day, holiday do not have impact on the count dependent variable
+  
+  Relevant Study content and conclusions are included in the pdf
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - Python ML libraries like sklearn,statsmodel,seaborn, matplotlib,math
+- Jupiter Notebook
+- Programming : Python 3.x
