@@ -28,10 +28,10 @@ So, it can come up with a mindful business plan to be able to accelerate its rev
 
 ## Approach
 Steps followed in the data analysis
--Data Visualization
--Data Preparation
--Modelling
--Evaluation of the model
+* Data Visualization
+* Data Preparation
+* Modelling
+* Evaluation of the model
 
 
 ## Conclusions
