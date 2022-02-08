@@ -36,7 +36,7 @@ Steps followed in the data analysis
 
 ## Conclusions
 - Conclusion 1 
-  Factors affect the Bike Booking are Season , Weather situation on a given day , Working/Non workingday and Year on Year Increase int he booking
+  Factors affect the Bike Booking are Season , Weather situation on a given day , Working/Non workingday and Year on Year Increase in the booking
 - Conclusion 2 
   Variables Temp and ATemp have a colinear relationship
 - Conclusion 3 
